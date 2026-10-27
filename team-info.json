@@ -1,6 +1,13 @@
 {
-    "team_name": "Team Name",
+    "team_name": "Silver Halibuts",
     "students": [
+        {
+            "student_id": "k12427088",
+            "first_name": "Corneliu",
+            "last_name": "Ciobanu",
+            "email": "ciobanucorneliu9@gmail.com",
+            "github_user": "Cornel-Hub"
+        },
         {
             "student_id": "k00000000",
             "first_name": "First",
@@ -8,6 +15,19 @@
             "email": "first.last@mail.com",
             "github_user": "mygitusername"
         },
-        // ...add a record for each student
+        {
+            "student_id": "k00000000",
+            "first_name": "First",
+            "last_name": "Last",
+            "email": "first.last@mail.com",
+            "github_user": "mygitusername"
+        },
+        {
+            "student_id": "k00000000",
+            "first_name": "First",
+            "last_name": "Last",
+            "email": "first.last@mail.com",
+            "github_user": "mygitusername"
+        }
     ]
 }
